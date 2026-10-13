@@ -2,8 +2,6 @@
 
 Name : Siwat Navasetkosol
 
----
-
 ## My favorites programming language
 - Python
 - Html (know nothing)
