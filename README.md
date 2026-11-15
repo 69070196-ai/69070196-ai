@@ -1,4 +1,4 @@
-# Hello i am ***Jing***.
+<h1 align = "center">Hello i am ***Jing***.</h1>
 
 Name : Siwat Navasetkosol
 
