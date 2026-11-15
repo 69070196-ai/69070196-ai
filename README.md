@@ -1,4 +1,4 @@
-<h1 align = "center"><img src="https://media1.tenor.com/m/_hUq1BSUsiMAAAAC/cat-cute.gif" wight="4%">Hello i am Jing.<img src="https://media1.tenor.com/m/_hUq1BSUsiMAAAAC/cat-cute.gif" wight="4%"></h1>
+<h1 align = "center"><img src="https://media1.tenor.com/m/_hUq1BSUsiMAAAAC/cat-cute.gif" width="4%">Hello i am Jing.<img src="https://media1.tenor.com/m/_hUq1BSUsiMAAAAC/cat-cute.gif" width="4%"></h1>
 
 Name : Siwat Navasetkosol
 
