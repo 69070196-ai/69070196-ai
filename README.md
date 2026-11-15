@@ -2,27 +2,21 @@
 <br>
 
 <p align = "center">
-  Name : Siwat Navasetkosol
+  Name : Siwat Navasetkosol<br>
   Nickname : Jing
 </p>
 <h1></h1>
 <br>
 
-<h2>My favorites programming language</h2>
+<p>My favorites programming language</p>
 <ul>
-  <li>
-    Python
-    Html (know nothing)
-    Markdown, LaTeX (LARP)    
-  </li>
+  <li>Python</li>
+  <li>Html (know nothing)</li>
+  <li>Markdown, LaTeX (LARP)</li>    
 </ul>
 
 
-AND Gate Truth Table
-
-|A|B|Output|
-|-|-|-|
-|0|0|0|
-|0|1|0|
-|1|0|0|
-|1|1|1|
+<p align="center">
+  <img src="https://i.ytimg.com/vi/QKLWSs3z0C4/sddefault.jpg" width="50%"><br>
+  This is SR Flip-Flop
+</p>
